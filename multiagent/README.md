@@ -84,4 +84,4 @@ This project implemented search algorithms including Minimax, Alpha-Beta Pruning
 
 </table>
 
-\**All right deserves to UC Berkeley CS188.*
+\**All rights deserve to UC Berkeley CS188.*
