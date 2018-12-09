@@ -4,8 +4,7 @@
 
  *This demo implemented A*\* *search with a heuristic which can find the closest dot at current time.*
 
-![demo](https://raw.githubusercontent.com/zmh1995105/cs188_2018Fall/master/search/demo2.gif)
-
+<img src="https://raw.githubusercontent.com/zmh1995105/cs188_2018Fall/master/search/demo2.gif"  height="330" width="495">
 ----------------------
 
 <table>
