@@ -4,7 +4,7 @@ This project implemented search algorithms including Minimax, Alpha-Beta Pruning
 
  *This demo implemented Alpha-Beta Prune with a evaluate function which depends on current postion of ghost.*
 
-<img src="https://raw.githubusercontent.com/zmh1995105/cs188_2018Fall/master/multiagent/demo1.gif"  height="318" width="510">
+<img src="https://raw.githubusercontent.com/zmh1995105/cs188_2018Fall/master/multiagent/demo1.gif"  height="300" width="629">
 
 <table>
 <tr>
