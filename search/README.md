@@ -1,6 +1,6 @@
 ## Project 1: Search
 
-This project implemented several search algorithm including DFS, BFS, Uniform Cost Search, A\* Search. And designed different kinds of heuristics to achieve tasks. Here is a demo:
+This project implemented several search algorithms including DFS, BFS, Uniform Cost Search, A\* Search. And designed different kinds of heuristics to achieve tasks. Here is a demo:
 
  *This demo implemented A*\* *search with a heuristic which can find the closest dot at current time.*
 
