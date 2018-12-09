@@ -12,16 +12,16 @@ This project implemented several search algorithm including DFS, BFS, Uniform Co
 </tr>
 <tr> 
     <td> search.py </td>
-    <td> Where all of your search algorithms will reside. </td>
+    <td> Where all of search algorithms will reside. </td>
 </tr>
 
 <tr>
     <td> searchAgents.py</td>
-    <td> Where all of your search-based agents will reside. </td>
+    <td> Where all of search-based agents will reside. </td>
 </tr>
 <tr>
     <td> pacman.py </td>
-    <td> The main file that runs Pacman games. This file describes a Pacman GameState type, which you use in this project. </td>
+    <td> The main file that runs Pacman games. This file describes a Pacman GameState type, which is used in this project. </td>
 </tr>
 <tr>
     <td> game.py </td>
