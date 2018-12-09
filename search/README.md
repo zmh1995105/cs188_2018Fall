@@ -88,4 +88,4 @@ This project implemented several search algorithms including DFS, BFS, Uniform C
 
 </table>
 
-\**All right deserves to UC Berkeley CS188.*
+\**All rights deserve to UC Berkeley CS188.*
