@@ -5,7 +5,8 @@ This project implemented several search algorithm including DFS, BFS, Uniform Co
  *This demo implemented A*\* *search with a heuristic which can find the closest dot at current time.*
 
 <img src="https://raw.githubusercontent.com/zmh1995105/cs188_2018Fall/master/search/demo2.gif"  height="318" width="510">
-----------------------
+
+## -------------------------------------------------------------
 
 <table>
 <tr>
