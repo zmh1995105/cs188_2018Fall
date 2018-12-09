@@ -4,7 +4,7 @@ This project implemented search algorithms including Minimax, Alpha-Beta Pruning
 
  *This demo implemented Alpha-Beta Prune with a evaluate function which depends on current postion of ghost.*
 
-<img src="https://raw.githubusercontent.com/zmh1995105/cs188_2018Fall/master/search/demo2.gif"  height="318" width="510">
+<img src="https://raw.githubusercontent.com/zmh1995105/cs188_2018Fall/master/multiagent/demo1.gif"  height="318" width="510">
 
 <table>
 <tr>
@@ -79,7 +79,7 @@ This project implemented search algorithms including Minimax, Alpha-Beta Pruning
 
 <tr>
     <td> searchTestClasses.py </td>
-    <td> Project 1 specific autograding test classes </td>
+    <td> Project 2 specific autograding test classes </td>
 </tr>
 
 </table>
